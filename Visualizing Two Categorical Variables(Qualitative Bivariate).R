@@ -172,3 +172,4 @@ ggplot(
   ylab("Proportion of Movies") +
   scale_fill_discrete(labels = c("No", "Yes"))
 
+# NOTE: No spine plot or mosaic plot
